@@ -17,7 +17,12 @@ FOUNDATION_EXPORT const unsigned char JAMSVGImageVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <JAMSVGImage/PublicHeader.h>
 
 
-#import <JAMSVGImageFramework/JAMSVGImage.h>
-#import <JAMSVGImageFramework/UIImage+SVG.h>
-#import <JAMSVGImageFramework/JAMSVGButton.h>
-#import <JAMSVGImageFramework/JAMSVGImageView.h>
+#import <JAMSVGImage/JAMSVGImage.h>
+#import <JAMSVGImage/UIImage+SVG.h>
+#import <JAMSVGImage/JAMSVGButton.h>
+#import <JAMSVGImage/JAMSVGImageView.h>
+#import <JAMSVGImage/JAMStyledBezierPath.h>
+#import <JAMSVGImage/JAMStyledBezierPathFactory.h>
+#import <JAMSVGImage/JAMSVGGradientParts.h>
+#import <JAMSVGImage/JAMSVGParser.h>
+#import <JAMSVGImage/JAMSVGUtilities.h>
